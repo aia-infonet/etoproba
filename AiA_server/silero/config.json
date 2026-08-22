@@ -1,0 +1,6 @@
+{
+    "info": "Файл v5_ru.pt должен находиться в этой папке. Скачайте модель Silero TTS ru_v5 и поместите сюда.",
+    "expected_files": ["v5_ru.pt"],
+    "languages": ["ru"],
+    "speakers": ["xenia", "baya", "aidar", "kseniya"]
+}
