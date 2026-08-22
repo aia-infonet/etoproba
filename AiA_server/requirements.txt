@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+ollama
+torch
+torchaudio
+sounddevice
+numpy
+python-docx
+websockets
+pydantic
+ephem
+openpyxl
+
